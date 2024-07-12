@@ -1,5 +1,5 @@
 
-namespace storageBuffer{
+namespace storage{
 
     //% block
     export function putBuffer(buffer: Buffer): void {
