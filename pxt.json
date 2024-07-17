@@ -17,7 +17,7 @@
     ],
     "testFiles": [
         "test.ts"
-    ], 
+    ],
     "fileDependencies": {
         "storage.ts": "v3 || v2 || v1",
         "storage.cpp": "v3 || v2 || v1",
