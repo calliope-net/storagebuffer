@@ -9,11 +9,21 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "storageBuffer.ts"
+        "storageBuffer.ts"",
+        "storage.ts",
+        "storage.cpp",
+        "shims.d.ts",
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
-    ],
+    ], 
+    "fileDependencies": {
+        "storage.ts": "v3 || v2 || v1",
+        "storage.cpp": "v3 || v2 || v1",
+        "shims.d.ts": "v3 || v2 || v1",
+        "enums.d.ts": "v3 || v2 || v1"
+    },
     "targetVersions": {
         "target": "4.0.29",
         "targetId": "calliopemini"
