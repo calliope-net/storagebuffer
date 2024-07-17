@@ -9,7 +9,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "storageBuffer.ts"",
+        "storageBuffer.ts",
         "storage.ts",
         "storage.cpp",
         "shims.d.ts",
