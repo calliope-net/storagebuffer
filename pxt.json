@@ -19,10 +19,10 @@
         "test.ts"
     ],
     "fileDependencies": {
-        "storage.ts": "v3 || v2 || v1",
-        "storage.cpp": "v3 || v2 || v1",
-        "shims.d.ts": "v3 || v2 || v1",
-        "enums.d.ts": "v3 || v2 || v1"
+        "storage.ts": "v3 || v2 || v1 || funk",
+        "storage.cpp": "v3 || v2 || v1 || funk",
+        "shims.d.ts": "v3 || v2 || v1 || funk",
+        "enums.d.ts": "v3 || v2 || v1 || funk"
     },
     "targetVersions": {
         "target": "4.0.29",
